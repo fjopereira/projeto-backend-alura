@@ -1,0 +1,5 @@
+fjopereira - gteC7s0cyLjg7D11
+
+npm run dev
+
+npm i
